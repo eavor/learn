@@ -1,0 +1,14 @@
+E:\Home\Leran\C#高级设计\MyGenericBate\bin\Debug\net8.0\MyGenericBate.exe
+E:\Home\Leran\C#高级设计\MyGenericBate\bin\Debug\net8.0\MyGenericBate.deps.json
+E:\Home\Leran\C#高级设计\MyGenericBate\bin\Debug\net8.0\MyGenericBate.runtimeconfig.json
+E:\Home\Leran\C#高级设计\MyGenericBate\bin\Debug\net8.0\MyGenericBate.dll
+E:\Home\Leran\C#高级设计\MyGenericBate\bin\Debug\net8.0\MyGenericBate.pdb
+E:\Home\Leran\C#高级设计\MyGenericBate\obj\Debug\net8.0\MyGenericBate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Home\Leran\C#高级设计\MyGenericBate\obj\Debug\net8.0\MyGenericBate.AssemblyInfoInputs.cache
+E:\Home\Leran\C#高级设计\MyGenericBate\obj\Debug\net8.0\MyGenericBate.AssemblyInfo.cs
+E:\Home\Leran\C#高级设计\MyGenericBate\obj\Debug\net8.0\MyGenericBate.csproj.CoreCompileInputs.cache
+E:\Home\Leran\C#高级设计\MyGenericBate\obj\Debug\net8.0\MyGenericBate.dll
+E:\Home\Leran\C#高级设计\MyGenericBate\obj\Debug\net8.0\refint\MyGenericBate.dll
+E:\Home\Leran\C#高级设计\MyGenericBate\obj\Debug\net8.0\MyGenericBate.pdb
+E:\Home\Leran\C#高级设计\MyGenericBate\obj\Debug\net8.0\MyGenericBate.genruntimeconfig.cache
+E:\Home\Leran\C#高级设计\MyGenericBate\obj\Debug\net8.0\ref\MyGenericBate.dll
